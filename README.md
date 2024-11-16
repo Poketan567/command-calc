@@ -25,3 +25,6 @@ For Addition, type in "+".
 For Subtraction, type in "-".
 For Multiplication, type in "*".
 For Division, type in "/".
+
+If you have suggestions, please let me know!
+Enjoy!
